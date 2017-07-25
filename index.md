@@ -7,11 +7,8 @@
 *pp34*	相关个人信息， 欢迎骚扰。
  
  - **邮箱**：
- 
+
  <p align="right">smu-pp@foxmail.com</p> 
- <p align="right">pp34forstudy@gmail.com</p> 
- <p align="right">pp34@i.smu.edu.cn</p> 
- 
  
  - [**github**](https://github.com/pp34) ：
 
@@ -56,71 +53,5 @@
 > 硬件设计阶段<br />
 
 
--------------------
-
-### 已经完成  
-
-#### <center>基于模拟信号的血氧检测仪</center>
-> 基于模拟信号、以MSP430单片机作为微控制器的血氧检测仪<br />
-> 利用单片机控制模拟前端AFE4400，对人体肢体末端的光电信号进行捕捉，并AD处理，计算出血氧饱和度<br />
-> 主要负责单片机程序的设计与测试，以及数据采集和算法校准<br />
-> 软件环境： C ，硬件环境： MSP430 ，开发工具： Code Composer Studio<br />
-> 资料整合中<br />
-
--------------------
-
-#### <center>基于数字信号的血氧检测仪</center>> 基于数字信号的，以MSP430单片机作为微控制器的便携式数字血氧检测仪<br />
-> 利用单片机定时器捕获传感器脉宽，滤波处理，计算出血氧饱和度<br />
-> 主要负责单片机程序的设计与测试，以及数据采集和算法校准<br />
-> 软件环境： C ，硬件环境： MSP430 ，开发工具： Code Composer Studio<br />
-> 资料整合中<br />
-
--------------------
-####  <center>智能拐杖</center>
-> 资料整合中<br />  
-
--------------------
-#### <center>二维旋转LED</center>
-> 资料整合中<br />   
-
--------------------
-
-
-### 备忘笔记
-> 这里是我学习备忘写笔记的地方  ，暂不开放<br />
-
--------------------
-
-#### <center>STM32F1</center><br />  
-
--------------------
-#### <center>STM32F4</center><br /> 
-
--------------------
-#### <center>MSP430</center><br /> 
-
--------------------
-#### <center>MSP432</center><br />   
-
--------------------
-#### <center>AVR</center><br />  
-
--------------------
-#### <center>PYTHON</center><br />  
-
-
--------------------
-#### <center>EDA</center><br /> 
-##### [Altium Designer 10](https://github.com/pp34/EDA/blob/master/EDA%20AD10.md)<br /> 
-##### [电容知识](https://github.com/pp34/EDA/blob/master/%E7%94%B5%E5%AE%B9%E9%80%89%E6%8B%A9.md)<br />  
--------------------
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pp34/pp34.cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
